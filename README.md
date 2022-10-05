@@ -4,7 +4,7 @@
 The project is to prepare all standardized test data analysis, reporting, and presentation to provide insights about performance trends and patterns.  These insights are used to inform discussions and strategic decisions at the school and district level.  A new_full_student_data.csv file is being provided that includes student ID, student name, grade, school name, reading score, math score, school type (charter/public) and school budget.  In order to be in sync with the working team a python development environment needs to be created and used throughout the project work.
 
 ### Purpose
-The purpose of this project is to prepare and analyze the new dataset file (new_full_student_data.csv) to provide insight and presentation to school district management.  Analyzing performance trends and patterns for math and reading scores will require creating summaries and drill-downs of the data provided.  This will require using Jupyter Notebook in a Python environment and creating a dataframe, reading the dataset .csv, cleaning the data, using location functions, aggregations and summary statistics. 
+The purpose of this project is to prepare and analyze the new dataset file (new_full_student_data.csv) to provide insight and presentation to school district management.  Analyzing performance trends and patterns for math and reading scores will require creating summaries and drill-downs of the data provided.  This will require using Jupyter Notebook and Pandas in a Python environment and creating a dataframe, reading the dataset .csv, cleaning the data, using location functions, aggregations and summary statistics. 
 
 ## Results
 
