@@ -24,3 +24,12 @@ The purpose of this project is to prepare and analyze the new dataset file (new_
   * Raymon Anthony Doane: 3.1% (11,606)
 
 * The winner of the election is Diana DeGette who has 272,892 votes which equates to 73.8% of the total votes.
+
+
+
+![budget_by_school_type_school_name](https://raw.githubusercontent.com/JBro-Birds/School_District_Analysis/master/Resources/budget_by_school_type_school_name.png)
+
+
+
+
+
