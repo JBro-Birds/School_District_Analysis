@@ -29,7 +29,10 @@ The purpose of this project is to prepare and analyze the new dataset file (new_
 
 ![budget_by_school_type_school_name](https://raw.githubusercontent.com/JBro-Birds/School_District_Analysis/master/Resources/budget_by_school_type_school_name.png)
 
+![code_scores_budget_student_count_by_school](https://raw.githubusercontent.com/JBro-Birds/School_District_Analysis/master/Resources/code_scores_budget_student_count_by_school.png)
 
+![result_scores_budget_student_count_by_school](https://raw.githubusercontent.com/JBro-Birds/School_District_Analysis/master/Resources/result_scores_budget_student_count_by_school.png)
 
+![reading_score_by_school_type](https://raw.githubusercontent.com/JBro-Birds/School_District_Analysis/master/Resources/reading_score_by_school_type.png)
 
 
