@@ -8,22 +8,8 @@ The purpose of this project is to prepare and analyze the new dataset file (new_
 
 ## Results
 
-### Election-Audit Results
-* 369,711 votes were cast in the congressional election.
-
-* The number of votes and the percentage of total votes for each county in the precinct is as follows:
-  * Jefferson: 10.5% (38,855)
-  * Denver: 82.8% (306,055)
-  * Arapahoe: 6.7% (24,801)
-
-* Denver County had the largest number of votes.
-
-* The number of votes and the percentage of the total votes each candidate received is as follows:
-  * Charles Casper Stockham: 23.0% (85,213)
-  * Diana DeGette: 73.8% (272,892)
-  * Raymon Anthony Doane: 3.1% (11,606)
-
-* The winner of the election is Diana DeGette who has 272,892 votes which equates to 73.8% of the total votes.
+### Data Analysis Results
+The student and school type data analysis shows comparisons of reading and math scores, school budgets and school student counts. A finding that stood out is the average math score for charter schools decreased from 9th grade to 12th grade by ~10% while public school average math scores remained consistent grade-over-grade. Performing additional analysis on the average reading score by school type and grade shows the charter school average decreased by ~10% from 11th grade to 12th grade while the public school average remained mostly consistent grade-over-grade.  There could be many drivers that impact math and reading scores between school types and grades, and from the dataset provided further reasoning could be determined by analysing the impact of school size (student count) and school budget values.  Running a groupby on school_name and then aggregating on mean math_score, mean_reading score, school_budget and student_count provides a useful summary to perform a deeper analysis to determine if there are correlations impacting scores.  In addition, the dataset provided could be more powerful by including demographics or other external factors for specific school regions in order to better analyze and determine drivers and reasons for fluctuations grade-over-grade within schools as well as comparing charter schools to public schools. 
 
 
 
