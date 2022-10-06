@@ -13,7 +13,7 @@ The student and school type data analysis shows comparisons of reading and math 
 
 #### Additional Analysis
 
-Reading score by schoo type:
+Reading score by school type:
 
 ![reading_score_by_school_type](https://raw.githubusercontent.com/JBro-Birds/School_District_Analysis/master/Resources/reading_score_by_school_type.png)
 
