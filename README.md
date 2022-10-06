@@ -21,7 +21,7 @@ Budget by-school-type, by-school:
 
 ![budget_by_school_type_school_name](https://raw.githubusercontent.com/JBro-Birds/School_District_Analysis/master/Resources/budget_by_school_type_school_name.png)
 
-
+Summary by-school of reading scores, math scores, school budget, student count:
 
 ![code_scores_budget_student_count_by_school](https://raw.githubusercontent.com/JBro-Birds/School_District_Analysis/master/Resources/code_scores_budget_student_count_by_school.png)
 
